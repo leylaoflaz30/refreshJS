@@ -1,3 +1,4 @@
 {
-    "atlascode.jira.enabled": false
+    "atlascode.jira.enabled": false,
+    "atlascode.bitbucket.enabled": true
 }
